@@ -25,7 +25,7 @@ export default {
 @import 'variables.styl'
 
 button
-  background: $primary
+  background: lighten($primary, 20)
 
 
 </style>
